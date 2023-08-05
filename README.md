@@ -1,0 +1,1 @@
+# CompareResultOfUsualMul-Stocasttic-QuantizeIdeas
